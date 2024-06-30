@@ -1,7 +1,7 @@
 ### Note Taking App
 A simple note-taking application with a GUI built using Python and Tkinter, with MySQL as the database.
 
-###Features
+### Features
 User registration with unique ID generation
 User login and register
 Add, edit, and delete notes
@@ -16,9 +16,9 @@ MySQL server installed and running
 MySQL connector for Python installed
 
 
-###Install Necessary packages
+### Install Necessary packages
 pip install mysql-connector-python,pillow,tk
 
-###MySQL Server
+### MySQL Server
 Open MYSQL (command line or workbench) .
 Paste server.sql code line by line .
